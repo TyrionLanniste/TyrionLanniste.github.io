@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+/* Game Of Thrones*/
+body {
+background-color: #e2f9f9;
+font-family: sans-serif;
+
+}
+h1 {
+color: #009999;
+font-size: 20px;
+border-bottom: 2px solid #333333;
+
+}
+h2 {
+color: #009999;
+font-size: 1.em;
+
+}
+
+h2, p, img{
+margin-left: 120px;
+}
